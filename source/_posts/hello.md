@@ -12,7 +12,7 @@ cover: https://raw.githubusercontent.com/jerryc127/CDN/master/cover/default_bg.p
 <p>这里简单说下使用方法：</p>
 </blockquote>
 <h1 id="hid-rWSSYm">1，找到目标文件夹</h1>
-<p><img src="https://img2022.cnblogs.com/blog/2577496/202201/2577496-20220124201651952-1453731950.png" /></p>
+<img src="https://img2022.cnblogs.com/blog/2577496/202201/2577496-20220124201651952-1453731950.png" />
 <h1 id="hid-rP5RMi">2，进入后，找到<span style="text-decoration: underline;">Applet</span></h1>
 <p><a href="https://img2022.cnblogs.com/blog/2577496/202201/2577496-20220124201724247-546599208.png" data-fancybox="gallery"><img class="medium-zoom-image" src="https://img2022.cnblogs.com/blog/2577496/202201/2577496-20220124201724247-546599208.png" alt="" /></a></p>
 <h1 id="hid-c3GWtw">3,选择要编译的文件</h1>
