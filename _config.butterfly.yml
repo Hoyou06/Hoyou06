@@ -84,7 +84,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img:https://img2022.cnblogs.com/blog/2702190/202208/2702190-20220805180915734-662591109.webp
+index_img: https://w.wallhaven.cc/full/j3/wallhaven-j3g7yy.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
