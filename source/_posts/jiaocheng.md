@@ -1,7 +1,7 @@
 ---
 title: 还在用Git Pages搭建博客?来试试Vercel!
 date: 2022-08-07 15:34:43
-tags: "搭建博客"，“Git Pages”,"Vercel"
+tags: "搭建博客"
 categories: "教程"
 cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
 ---
