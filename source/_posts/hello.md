@@ -5,7 +5,7 @@ updated: 2022/8/5
 tags: "python"
 categories: "python"
 description: python——微信小程序反编译
-cover: https://raw.githubusercontent.com/jerryc127/CDN/master/cover/default_bg.png
+cover: https://s1.ax1x.com/2022/08/08/vMFiK1.png
 
 ---
 

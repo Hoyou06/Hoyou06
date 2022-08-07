@@ -4,7 +4,7 @@ date: 2022-08-06 15:36:02
 tags: “反编译”
 categories: "网易云"
 description: ”网易云缓存转换“
-cover: https://raw.githubusercontent.com/jerryc127/CDN/master/cover/default_bg.png
+cover: https://th.wallhaven.cc/small/wq/wqve97.jpg
 
 ---
 
