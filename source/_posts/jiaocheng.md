@@ -21,7 +21,7 @@ cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
 
 # 准备
 
-+ {% label Git工具 blue %}*可以用其他工具（比如我用的SourceTree)*  
++ {% label Git工具 blue %} *可以用其他工具（比如我用的SourceTree)*  
 
 + Github账号
 
@@ -31,7 +31,8 @@ cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
 
 ## 1.进入Vercel
 
-  [<img src="https://s1.ax1x.com/2022/08/07/vKUrzd.png" title="" alt="vKUrzd.png" data-align="center">](https://imgtu.com/i/vKUrzd)
+ [![vKUrzd.png](https://s1.ax1x.com/2022/08/07/vKUrzd.png)](https://imgtu.com/i/vKUrzd)
+
   点击右上角的新建项目
 
 
