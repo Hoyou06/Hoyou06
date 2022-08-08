@@ -15,15 +15,21 @@ cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
 
 </blockquote>
 
-<strong>今天就为大家推荐一个搭建静态网站的好方法----{% label Vercel pink %}</strong>
+ **今天就为大家推荐一个搭建静态网站的好方法----{% label Vercel pink %}** 
 
 <hr> </hr>
 
 # 准备
 
-+ ｛%label Git 工具 blue%｝*可以用其他工具（比如我用的SourceTree)*  
++ ｛% label Git 工具 blue %｝*可以用其他工具（比如我用的SourceTree)*  
 
 + Github账号
 
 + Vercel账号
-# 开始
+  
+  # 开始
+  
+  ## 1.进入Vercel
+  
+  [![vKUrzd.png](https://s1.ax1x.com/2022/08/07/vKUrzd.png)](https://imgtu.com/i/vKUrzd)
+  点击右上角的新建项目
