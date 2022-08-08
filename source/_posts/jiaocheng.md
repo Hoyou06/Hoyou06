@@ -4,7 +4,10 @@ date: 2022-08-07 15:34:43
 tags: "搭建博客"
 categories: "教程"
 cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
+
 ---
+
+# 前言
 
 <blockquote>
   <p>众所周知，使用Git Pages是搭建静态页面的好方法，这其中最出色的莫过于<a href="https://hexo.io/">Hexo</a>了</p>
@@ -16,3 +19,11 @@ cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
 
 <hr> </hr>
 
+# 准备
+
++ ｛%label Git 工具 blue%｝*可以用其他工具（比如我用的SourceTree)*  
+
++ Github账号
+
++ Vercel账号
+# 开始
