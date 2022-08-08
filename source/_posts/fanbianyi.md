@@ -15,7 +15,7 @@ cover: https://th.wallhaven.cc/small/wq/wqve97.jpg
 </blockquote>
 <p>使用方法：</p>
 <h3>1.找到缓存目录</h3>
-<p><img class="medium-zoom-image" src="https://s1.ax1x.com/2022/08/06/vuKz9K.png" alt="" loading="lazy" /></p>
+<p><img src="https://s1.ax1x.com/2022/08/06/vuKz9K.png" /></p>
 <h3 id="1634993975735"> 2.在对应地址打开，你已经能看到有了奇奇怪怪的文件</h3>
 <p><img class="medium-zoom-image" src="https://s1.ax1x.com/2022/08/06/vuKvh6.png" alt="" loading="lazy" /></p>
 <h3 id="1634994030682"> 3.打开程序，将文件夹整个拖入，<strong>记得是文件夹</strong></h3>

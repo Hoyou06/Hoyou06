@@ -13,3 +13,6 @@ cover: "https://s1.ax1x.com/2022/08/07/vKUDRH.png"
 </blockquote>
 
 <strong>今天就为大家推荐一个搭建静态网站的好方法----{% label Vercel pink %}</strong>
+
+<hr> </hr>
+
